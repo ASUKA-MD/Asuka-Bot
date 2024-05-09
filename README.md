@@ -11,7 +11,7 @@ Xasena
 
 1. Fork This Repository
    <br>
-<a href='https://github.com/Kingbadan321/Zeta-XD/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/ASUKA-MD/Asuka-Bot/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
     <br>
 <a href='https://www.badan-ser.xyz' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
@@ -27,7 +27,7 @@ Xasena
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/Kingbadan321/Zeta-XD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=violet'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/ASUKA-MD/Asuka-Bot' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=violet'/></a>
 
 
 ***

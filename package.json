@@ -1,7 +1,7 @@
 {
-  "name": "Zeta-XD",
+  "name": "𝛢𝑆𝑈𝛫𝛢-𝛭𝐷",
   "version": "1.0.0",
-  "description": "Ezra-md simple multi device WhatsApp Bot.",
+  "description": "Asuk4-md simple multi device WhatsApp Bot.",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -9,22 +9,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zeta-XD/ezraa.git"
+    "url": "git+https://github.com/ASUKA-MD/Asuka-Bot"
   },
   "keywords": [
     "bot",
     "ai",
-    "Ezra",
-    "Zeta",
+    "Ambro",
+    "Asuka",
     "sparkyapi"
   ],
   "author": "Zeta-XD",
   "developer": "Zeta",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Zeta-XD/ezraa/issues"
+    "url": "https://github.com/ASUKA-MD/Asuka-Bot"
   },
-  "homepage": "https://github.com/Zeta-XD/ezraa#readme",
+  "homepage": "https://github.com/ASUKA-MD/Asuka-Bot",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.6.0",
     "@adiwajshing/keyed-db": "^0.2.4",
